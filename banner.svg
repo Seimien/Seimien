@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="240">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#111114" />
+      <stop offset="100%" stop-color="#000000" />
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#27272A" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#glow)" />
+  <rect width="1200" height="240" fill="url(#dots)" />
+
+  <line x1="0" y1="239" x2="1200" y2="239" stroke="#18181B" stroke-width="2" />
+
+  <text x="600" y="115" text-anchor="middle"
+        font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="17" letter-spacing="6" fill="#71717A">WELCOME TO</text>
+
+  <text x="600" y="158" text-anchor="middle"
+        font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-weight="700" font-size="40" fill="#F5F5F5">Joseph&#8217;s GitHub</text>
+
+  <text x="600" y="196" text-anchor="middle"
+        font-family="'SF Mono', 'Fira Code', Consolas, monospace"
+        font-size="18" fill="#FF4D5A">&lt;/&gt;</text>
+
+  <rect x="560" y="212" width="80" height="2" fill="#3A7BFF" />
+</svg>
