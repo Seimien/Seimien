@@ -71,7 +71,7 @@ I care about the details that make an interface feel considered: state handling,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Seimien/Seimien/main/assets/tech-marquee.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Seimien/Seimien/main/tech-marquee.svg" width="100%" />
 
 </div>
 
