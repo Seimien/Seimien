@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Seimien/Seimien/main/banner.svg" width="100%" />
+
 <br/>
 
 # Joseph Seimien Mienwipia
@@ -34,21 +36,34 @@ I care about the details that make an interface feel considered: state handling,
 <td valign="top" width="33%">
 
 **Frontend**
-React · TypeScript · JavaScript
-Tailwind CSS · Responsive Design
 
-</td>
-<td valign="top" width="33%">
-
-**Backend / Data**
-Firebase · Supabase
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Responsive Design
 
 </td>
 <td valign="top" width="33%">
 
 **Design & Tools**
-Figma · Wireframing · Prototyping
-Docker · Vercel · Netlify · Git
+
+- Figma
+- Wireframing
+- Prototyping
+- Docker
+- Vercel
+- Netlify
+- Git
+- GitHub
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+- Firebase
+- Supabase
 
 </td>
 </tr>
@@ -56,7 +71,7 @@ Docker · Vercel · Netlify · Git
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Seimien/Seimien/main/tech-marquee.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Seimien/Seimien/main/assets/tech-marquee.svg" width="100%" />
 
 </div>
 
