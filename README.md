@@ -10,7 +10,9 @@ I build clean, responsive web interfaces and product-focused frontends using Rea
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF4D5A)](https://github.com/Seimien)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF4D5A)](https://github.com/Seimien)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3A7BFF)](https://www.linkedin.com/in/joseph-seimien-mienwipia-691997428/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FF4D5A)](https://wa.me/250793902069)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=3A7BFF)](mailto:jbmienwipia14@gmail.com)
 
 </div>
@@ -39,7 +41,7 @@ Tailwind CSS · Responsive Design
 <td valign="top" width="33%">
 
 **Backend / Data**
-Firebase · Supabase · Node.js
+Firebase · Supabase
 
 </td>
 <td valign="top" width="33%">
@@ -54,7 +56,7 @@ Docker · Vercel · Netlify · Git
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,figma,firebase,supabase,docker,vercel,git,github&theme=dark" />
+<img src="https://raw.githubusercontent.com/Seimien/Seimien/main/tech-marquee.svg" width="100%" />
 
 </div>
 
